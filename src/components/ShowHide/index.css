@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.con {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7, #dd1264);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.head {
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.fir-lst-con {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+.button {
+  background-color: #fff;
+  height: 25px;
+  width: 200px;
+  color: #dd1264;
+  font-family: 'Roboto';
+  cursor: pointer;
+  border-radius: 14px;
+  border-width: 0px;
+  margin-bottom: 15px;
+}
+.name1-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  height: 70px;
+  width: 100px;
+  padding: 10px;
+}
+
+.joe {
+  text-align: center;
+  background-color: #fff;
+  font-size: 24px;
+  border-radius: 12px;
+  color: black;
+  font-family: 'Roboto';
+  font-size: 30px;
+  padding-top: 48px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 48px;
+  font-weight: 500px;
+}
+
+.first-con {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 20px;
+  align-items: center;
+  width: 300px;
+  height: 200px;
+}
